@@ -1,2 +1,2 @@
 # Social Media
-[Link](https://ofgamingxv.github.io/Portfolio/)
+[Home](https://ofgamingxv.github.io/Portfolio/)
