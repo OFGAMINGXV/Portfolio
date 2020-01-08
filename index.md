@@ -1,3 +1,3 @@
 # Portfolio
 ### Andrew Carter-Reed
-[link] (social.md)
+[Link] (social.md)
