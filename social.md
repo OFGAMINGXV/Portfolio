@@ -1,2 +1,2 @@
 # Social Media
-[Link] (index.md)
+[Link] (https://ofgamingxv.github.io/Portfolio/)
