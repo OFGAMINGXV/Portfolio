@@ -1,2 +1,2 @@
 # Social Media
-[link] (index.md)
+[Link] (index.md)
