@@ -1,3 +1,3 @@
 # Portfolio
 ### Andrew Carter-Reed
-[Link] (social.md)
+[Link] (https://ofgamingxv.github.io/Portfolio/social.html)
