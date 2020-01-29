@@ -1,24 +1,23 @@
-##Personal Details
+## Personal Details
+## Andrew Carter-Reed
 
-##Andrew Carter-Reed
+## 43 Harbour View Road
+## Newhaven
+## East Sussex
+## BN9 9TT
 
-##43 Harbour View Road
-##Newhaven
-##East Sussex
-##BN9 9TT
+## Home number with answerphone: Mobile:
+## Email - andrewcreed13@gmail.com
 
-##Home number with answerphone: 01273 611335, Mobile: 07713775510
-##Email - andrewcreed13@gmail.com
+## Date of Birth 21/07/2001
 
-##Date of Birth 21/07/2001
-
-Personal Profile
+## Personal Profile
 
 I am currently in my final year as a student at East Sussex College Lewes where I am studying Software and Games development Level 3.
 
 In my spare time I combine my two favourite things hiking and photography and sometimes go walking for hours in search of that special photo.
 
-Education
+## Education
 
 September 2017 until Present
 East Sussex College Lewes
@@ -51,11 +50,11 @@ BCS level 2 certificate in IT Applications Grade Distinction
 Pearson Edexcel Certificate
 History Grade D
 
-Employment Details
+## Employment Details
 
  I currently work 2 evenings a week at Horace’s Fish Bar, I have worked there for the last 4 years, I serve customers where I take payment by cash or card, I make up their orders and at the end of the evening I make sure the areas are clean and tidy and ready for the following days trading.
 
-Work Experience
+## Work Experience
 
 Brightwell Dispensers Ltd
 Unit 9, Euro Business Park
@@ -68,7 +67,7 @@ I did one weeks work experience in the IT department where I answered phone call
 
 
 
-References
+## References
 
 Mr David Bookham
 Horace’s Fish Bar
@@ -76,5 +75,3 @@ Horace’s Fish Bar
 Newhaven
 East Sussex
 BN9 9PN
-
-01273 514275
