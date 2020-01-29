@@ -28,20 +28,24 @@ September 2012 until June 2017
 Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
 
 Qualifications
-AQA General Certificate of Secondary Education GCSE
-English Language Grade 3
-Spoken English Grade Pass
-English Literature Grade 3
-Geography Grade C
-Additional Science Grade D
-Science Grade D
-Drama Grade E
 
-Ofqual
-BCS level 2 certificate in IT Applications Grade Distinction
+| AQA General Certificate of Secondary Education GCSE | GCSE        |
+|-----------------------------------------------------|-------------|
+| English Language Grade                              | Grade 3     |
+| Spoken English Grade                                | Grade  Pass |
+| English Literature Grade                            | Grade 3     |
+| Geography Grade                                     | Grade C     |
+| Additional Science Grade                            | Grade D     |
+| Science Grade                                       | Grade D     |
+| Drama Grade                                         | Grade E     |
+ 
+| Ofqual                                     | Grade       |
+|--------------------------------------------|-------------|
+| BCS level 2 certificate in IT Applications | Distinction |
 
-Pearson Edexcel Certificate
-History Grade D
+| Pearson Edexcel Certificate | Grade   |
+|-----------------------------|---------|
+| History                     | Grade D |
 
 ### Employment Details
 
