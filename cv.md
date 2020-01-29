@@ -9,10 +9,9 @@ In my spare time I combine my two favourite things hiking and photography and so
 
 ### Education
 
-September 2017 until Present
-East Sussex College Lewes
-
-Qualifications
+# September 2017 until Present
+# East Sussex College Lewes
+## Qualifications
 
 | Pearson Edexcel   | GCSE       |
 |-------------------|------------|
@@ -24,10 +23,10 @@ Qualifications
 |----------------------------------------------------------------------------|-------------|
 | OCR Level 2 Cambridge Technical Diploma IT (Digital Software Practitioner) | Distinction |
 
-September 2012 until June 2017
-Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
 
-Qualifications
+# September 2012 until June 2017
+# Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
+## Qualifications
 
 | AQA General Certificate of Secondary Education GCSE | GCSE        |
 |-----------------------------------------------------|-------------|
@@ -46,6 +45,10 @@ Qualifications
 | Pearson Edexcel Certificate | Grade   |
 |-----------------------------|---------|
 | History                     | Grade D |
+
+| UAL                                   | Predicted Grade |
+|---------------------------------------|-----------------|
+|Software And Games Development Level 3 | Grade Merit     |
 
 ### Employment Details
 
