@@ -20,9 +20,9 @@ Qualifications
 | English Language  | Grade 4    |
 | Spoken Language   | Grade Pass |
 
-
-OCR
-OCR Level 2 Cambridge Technical Diploma IT (Digital Software Practitioner) Grade Distinction
+| OCR                                                                        | Grade       |
+|----------------------------------------------------------------------------|-------------|
+| OCR Level 2 Cambridge Technical Diploma IT (Digital Software Practitioner) | Distinction |
 
 September 2012 until June 2017
 Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
