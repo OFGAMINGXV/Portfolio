@@ -9,8 +9,8 @@ In my spare time I combine my two favourite things hiking and photography and so
 
 ### Education
 
-# September 2017 until Present
-## East Sussex College Lewes
+# East Sussex College Lewes
+## September 2017 until Present
 ### Qualifications
 
 | Pearson Edexcel   | GCSE       |
@@ -26,8 +26,8 @@ In my spare time I combine my two favourite things hiking and photography and so
 
 
 
-# September 2012 until June 2017
-## Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
+# Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
+## September 2012 until June 2017
 ### Qualifications
 
 | AQA General Certificate of Secondary Education GCSE | GCSE        |
