@@ -18,12 +18,12 @@ In my spare time I combine my two favourite things hiking and photography and so
 | Mathematics       | Grade 4    |
 | English Language  | Grade 4    |
 | Spoken Language   | Grade Pass |
-|-------------------|------------|
+
 
 | OCR                                                                        | Grade       |
 |----------------------------------------------------------------------------|-------------|
 | OCR Level 2 Cambridge Technical Diploma IT (Digital Software Practitioner) | Distinction |
-|----------------------------------------------------------------------------|-------------|
+
 
 
 # September 2012 until June 2017
@@ -39,22 +39,18 @@ In my spare time I combine my two favourite things hiking and photography and so
 | Additional Science Grade                            | Grade D     |
 | Science Grade                                       | Grade D     |
 | Drama Grade                                         | Grade E     |
-|-----------------------------------------------------|-------------|
  
 | Ofqual                                     | Grade       |
 |--------------------------------------------|-------------|
 | BCS level 2 certificate in IT Applications | Distinction |
-|--------------------------------------------|-------------|
 
 | Pearson Edexcel Certificate | Grade   |
 |-----------------------------|---------|
 | History                     | Grade D |
-|-----------------------------|---------|
 
 | UAL                                   | Predicted Grade |
 |---------------------------------------|-----------------|
 |Software And Games Development Level 3 | Grade Merit     |
-|---------------------------------------|-----------------|
 
 ### Employment Details
 
