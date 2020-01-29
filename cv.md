@@ -26,7 +26,7 @@ In my spare time I combine my two favourite things hiking and photography and so
 
 
 
-# Seahaven Academy, Southdown Road, Newhaven, East Sussex, BN9 9JL
+# Seahaven Academy Newhaven East Sussex
 ## September 2012 until June 2017
 ### Qualifications
 
